@@ -1,0 +1,17 @@
+{
+	"always_show_minimap_viewport": true,
+	"default_encoding": "UTF-8",
+	"draw_indent_guides": false,
+	"font_face": "Fira Code",
+	"font_size": 16,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+	],
+	"line_padding_bottom": 4,
+	"line_padding_top": 4,
+	"match_brackets": false,
+	"material_theme_bullet_tree_indicator": true,
+	"overlay_scroll_bars": "enabled",
+	"theme": "Material-Theme-Darker.sublime-theme",
+}
