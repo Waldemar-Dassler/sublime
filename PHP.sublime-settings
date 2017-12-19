@@ -1,0 +1,4 @@
+// These settings override both User and Default settings for the PHP syntax
+{
+	"color_scheme": "Packages/Colorsublime - Themes/Ease.tmTheme",
+}

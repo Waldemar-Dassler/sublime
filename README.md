@@ -9,7 +9,12 @@
 * Tabs
 * Status Bar
 
+### NOTE: install themes from ColorSublime plugin!
+* Ease
+* Hopscotch
+* Pastel
+
 ### Before change preferences intall packages
-* Materialize
+* Ayu
 * ColorSublime
 * Emmet
