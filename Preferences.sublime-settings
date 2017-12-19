@@ -1,5 +1,9 @@
 {
 	"always_show_minimap_viewport": true,
+	"caret_extra_bottom": 5,
+	"caret_extra_top": 5,
+	"caret_extra_width": 1,
+	"color_scheme": "Packages/Colorsublime - Themes/Ease.tmTheme",
 	"default_encoding": "UTF-8",
 	"draw_indent_guides": false,
 	"font_face": "Fira Code",
@@ -8,10 +12,10 @@
 	"ignored_packages":
 	[
 	],
-	"line_padding_bottom": 4,
-	"line_padding_top": 4,
+	"line_padding_bottom": 5,
+	"line_padding_top": 5,
 	"match_brackets": false,
 	"material_theme_bullet_tree_indicator": true,
 	"overlay_scroll_bars": "enabled",
-	"theme": "Material-Theme-Darker.sublime-theme",
+	"theme": "Material Seti.sublime-theme"
 }
