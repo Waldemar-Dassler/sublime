@@ -9,7 +9,7 @@
 * Tabs
 * Status Bar
 
-### NOTE: install themes from ColorSublime plugin!
+![#f03c15] ### NOTE: install themes from ColorSublime plugin! `#f03c15`
 * Ease
 * Hopscotch
 * Pastel
